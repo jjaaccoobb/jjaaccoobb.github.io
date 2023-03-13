@@ -1,0 +1,65 @@
+@import "_reset.css";
+
+@media all and (max-width: 1200px) {
+}
+
+@media all and (max-width: 979px) {
+}
+
+@media all and (max-width: 767px) {
+  body {
+    padding: 0 0.5rem;
+  }
+}
+
+@media all and (max-width: 480px) {
+}
+
+@media all and (max-width: 320px) {
+}
+
+@font-face {
+  font-family: "cmu_serifroman";
+  src: url("fonts/cmunrm-webfont.eot");
+  src: url("fonts/cmunrm-webfont.eot?#iefix") format("embedded-opentype"),
+    url("fonts/cmunrm-webfont.woff2") format("woff2"),
+    url("fonts/cmunrm-webfont.woff") format("woff"),
+    url("fonts/cmunrm-webfont.ttf") format("truetype"),
+    url("fonts/cmunrm-webfont.svg#cmu_serifroman") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: "cmu_serifroman";
+  max-width: 767px;
+  margin: 1rem auto;
+}
+a {
+  color: cornflowerblue;
+}
+a:hover {
+  color: dodgerblue;
+}
+h1 {
+  margin: 0;
+}
+ul {
+  margin: 0 0 1rem 0;
+  padding-left: 1rem;
+}
+footer {
+  border-top: 1px solid black;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  text-align: right;
+  color: gainsboro;
+}
+footer a {
+  color: lightgray;
+}
+footer a:visited {
+  color: lightgray;
+}
+footer a:visited:hover {
+  color: dodgerblue;
+}
