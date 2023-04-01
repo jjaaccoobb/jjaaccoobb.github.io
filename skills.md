@@ -1,4 +1,5 @@
 ---
+theme: minima
 layout: post
 title: "Professional Experience and Skills"
 permalink: /skills
