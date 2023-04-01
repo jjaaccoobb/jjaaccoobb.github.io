@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Professional Experience and Skills"
 permalink: /skills
 ---
