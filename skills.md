@@ -1,11 +1,11 @@
 ---
-theme: minima
+name: ""
 title: "Professional Experience and Skills"
 permalink: /skills
 ---
 
 # Professional Experience and Skills
-https://www.linkedin.com/in/jacobswartz
+[https://www.linkedin.com/in/jacobswartz](https://www.linkedin.com/in/jacobswartz)
 ---
 
 - Full Stack Software Development (Web &amp; Mobile/Backend/DB)
