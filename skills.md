@@ -3,6 +3,7 @@ layout: page
 title: "Professional Experience and Skills"
 permalink: /skills
 ---
+
 # Professional Experience and Skills
 > https://www.linkedin.com/in/jacobswartz
 ---
